@@ -1,0 +1,9 @@
+{
+  "key.category.ratclient.main": "Rat Client",
+  "key.ratclient.open_menu": "Open Rat Client menu",
+  "key.ratclient.toggle_boat_fly": "Toggle Boat Fly",
+  "key.ratclient.toggle_schematic": "Toggle Schematic Builder",
+  "key.ratclient.toggle_area_miner": "Toggle Area Miner",
+  "key.ratclient.toggle_freecam": "Toggle Freecam",
+  "key.ratclient.toggle_base_finder": "Toggle Base Finder"
+}

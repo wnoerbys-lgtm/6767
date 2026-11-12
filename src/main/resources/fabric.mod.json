@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "ratclient",
+  "version": "${version}",
+  "name": "Rat Client",
+  "description": "A configurable client-side building and exploration toolkit.",
+  "authors": ["Rat Client"],
+  "environment": "client",
+  "entrypoints": { "client": ["dev.ratclient.RatClient"] },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
